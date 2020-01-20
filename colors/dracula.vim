@@ -35,7 +35,7 @@ let s:fg        = g:dracula#palette.fg
 
 let s:bglighter = g:dracula#palette.bglighter
 let s:bglight   = g:dracula#palette.bglight
-"let s:bg        = g:dracula#palette.bg
+let s:bg        = g:dracula#palette.bg
 let s:bgdark    = g:dracula#palette.bgdark
 let s:bgdarker  = g:dracula#palette.bgdarker
 
