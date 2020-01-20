@@ -3,11 +3,11 @@
 let g:dracula#palette           = {}
 let g:dracula#palette.fg        = ['#F8F8F2', 253]
 
-let g:dracula#palette.bglighter = ['#282936', 238]
-let g:dracula#palette.bglight   = ['#282936', 237]
-let g:dracula#palette.bg        = ['#282936', 236]
-let g:dracula#palette.bgdark    = ['#282936', 235]
-let g:dracula#palette.bgdarker  = ['#282936', 234]
+let g:dracula#palette.bglighter = ['#424450', 238]
+let g:dracula#palette.bglight   = ['#343746', 237]
+let g:dracula#palette.bg        = ['#282A36', 236]
+let g:dracula#palette.bgdark    = ['#21222C', 235]
+let g:dracula#palette.bgdarker  = ['#191A21', 234]
 
 let g:dracula#palette.comment   = ['#6272A4',  61]
 let g:dracula#palette.selection = ['#44475A', 239]
@@ -24,7 +24,7 @@ let g:dracula#palette.yellow    = ['#F1FA8C', 228]
 "
 " ANSI
 "
-let g:dracula#palette.color_0  = '#21222C'
+let g:dracula#palette.color_0  = '#282936'
 let g:dracula#palette.color_1  = '#FF5555'
 let g:dracula#palette.color_2  = '#50FA7B'
 let g:dracula#palette.color_3  = '#F1FA8C'
