@@ -60,7 +60,10 @@ let g:airline#themes#dracula#palette = {
 \   'insert': s:color_map(
 \       ['bg', 'green'],
 \       ['fg', 'comment'],
-\       ['fg', 'selection'],
+\       ['fg', '
+
+
+'],
 \       {
 \         'airline_warning': s:clr('bg', 'orange'),
 \         'airline_error': s:clr('bg', 'red'),
@@ -112,7 +115,7 @@ let g:airline#themes#dracula#palette = {
 \       },
 \     ),
 \   'inactive': s:color_map(
-\       ['bg', 'comment'],
+\       ['bg', 'selection'],
 \       ['fg', 'bgdark'],
 \       ['fg', 'selection'],
 \       {
