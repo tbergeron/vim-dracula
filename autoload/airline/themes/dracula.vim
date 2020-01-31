@@ -87,7 +87,7 @@ let g:airline#themes#dracula#palette = {
 \   'replace_modified': s:color_map(
 \       ['bg', 'orange'],
 \       ['fg', 'comment'],
-\       ['fg', 'bgdark'],
+\       ['fg', 'purple'],
 \       {
 \         'airline_warning': s:clr('bg', 'orange'),
 \         'airline_error': s:clr('bg', 'red'),
@@ -105,7 +105,7 @@ let g:airline#themes#dracula#palette = {
 \   'visual_modified': s:color_map(
 \       ['bg', 'yellow'],
 \       ['fg', 'comment'],
-\       ['fg', 'bgdark'],
+\       ['fg', 'purple'],
 \       {
 \         'airline_warning': s:clr('bg', 'orange'),
 \         'airline_error': s:clr('bg', 'red'),
